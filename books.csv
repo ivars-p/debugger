@@ -1,0 +1,5 @@
+ID;Title;Author;ReleaseDate;Category;Tags;IsBorrowed
+B1;The Great Gatsby;F. Scott Fitzgerald;10.04.1925;Classic;Literature,American,1920s;TRUE
+B2;To Kill a Mockingbird;Harper Lee;11.07.1960;Novel;American,Civil Rights,Era;TRUE
+B3;1984;George Orwell;08.06.1949;Dystopia;Political,Fiction,Totalitarianism;TRUE
+B4;Pride and Prejudice;Jane Austen;1813.01.28;Romance;Classic,British,Literature;FALSE
